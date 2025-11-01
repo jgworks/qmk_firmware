@@ -18,3 +18,5 @@
 
 /* Enable CapsLock LED*/
 #define CAPS_LOCK_LED_INDEX 28
+
+#define DEBOUNCE 10
